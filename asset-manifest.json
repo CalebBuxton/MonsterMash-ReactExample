@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MonsterMash-ReactExample/static/css/main.77b30b28.chunk.css",
+    "main.js": "/MonsterMash-ReactExample/static/js/main.dbf4987f.chunk.js",
+    "main.js.map": "/MonsterMash-ReactExample/static/js/main.dbf4987f.chunk.js.map",
+    "runtime-main.js": "/MonsterMash-ReactExample/static/js/runtime-main.e0639068.js",
+    "runtime-main.js.map": "/MonsterMash-ReactExample/static/js/runtime-main.e0639068.js.map",
+    "static/js/2.57ce113f.chunk.js": "/MonsterMash-ReactExample/static/js/2.57ce113f.chunk.js",
+    "static/js/2.57ce113f.chunk.js.map": "/MonsterMash-ReactExample/static/js/2.57ce113f.chunk.js.map",
+    "static/js/3.f09792a3.chunk.js": "/MonsterMash-ReactExample/static/js/3.f09792a3.chunk.js",
+    "static/js/3.f09792a3.chunk.js.map": "/MonsterMash-ReactExample/static/js/3.f09792a3.chunk.js.map",
+    "index.html": "/MonsterMash-ReactExample/index.html",
+    "static/css/main.77b30b28.chunk.css.map": "/MonsterMash-ReactExample/static/css/main.77b30b28.chunk.css.map",
+    "static/js/2.57ce113f.chunk.js.LICENSE.txt": "/MonsterMash-ReactExample/static/js/2.57ce113f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0639068.js",
+    "static/js/2.57ce113f.chunk.js",
+    "static/css/main.77b30b28.chunk.css",
+    "static/js/main.dbf4987f.chunk.js"
+  ]
+}
